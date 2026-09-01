@@ -1,6 +1,6 @@
 # 915 MHz Paper Clip RFID Tag Antenna Design & Characterization
 
-An ultra-low-cost, passive UHF RFID tag antenna engineered using a folded paperclip geometry and custom PCB feed matching[cite: 2]. The design operates at **915 MHz**, utilizing the paperclip structure as both the radiating element and an integrated inductive matching loop to conjugate-match the capacitive complex impedance of the **NXP G2iM RFID IC**
+An ultra-low-cost, passive UHF RFID tag antenna engineered using a folded paperclip geometry and custom PCB feed matching. The design operates at **915 MHz**, utilizing the paperclip structure as both the radiating element and an integrated inductive matching loop to conjugate-match the capacitive complex impedance of the **NXP G2iM RFID IC**
 
 The project encompasses full-wave 3D electromagnetic simulations in **Ansys HFSS**, custom PCB fabrication on **Isola FR408HR**, and experimental validation in an **RFID testing anechoic chamber** across varying dielectric loading conditions.
 
